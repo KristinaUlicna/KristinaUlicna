@@ -37,7 +37,7 @@ You can use this api: https://github.com/martinferianc/github-readme-stats
 -->
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=kristinaulicna&show_icons=true">
-    <img width="50%" align="right" alt="Kristina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kristinaulicna&show_icons=true&hide_border=true" />
+    <img width="40%" align="right" alt="Kristina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kristinaulicna&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment.
