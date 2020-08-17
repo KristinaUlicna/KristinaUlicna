@@ -2,7 +2,7 @@
 
 ## Hello everyone 👋! My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the LIDo Doctoral Programme at the University College London 🇬🇧
 
-## Welcome to my GitHub profile 💻 full of #DeepLearning #SingleCell #DataScience repositories 👩‍💻 from my #PhD #research #project 👩‍🔬 & beyond!
+**Welcome to my GitHub profile 💻 full of #DeepLearning #SingleCell #DataScience repositories 👩‍💻 from my #PhD #research #project 👩‍🔬 & beyond!**
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 I am starting my penultimate year as a PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm split between the groups lead by Drs Alan Lowe & Guillaume Charras (CellX group website). I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various internship experience in both **academia & industry**. I'm in search for 3-month industrial PhD internship in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch!
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" alt="Github" src="https://github.com/KristinaUlicna/KristinaUlicna/lab_pic.jpg" />
+<img width="10%" align="right" alt="Github" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/lab_pic.jpg" />
 
 - 👨🏽‍💻 I’m currently working on my PhD research project;
 - 🌱 I’m currently learning about Variational AutoEncoders (VAEs);
