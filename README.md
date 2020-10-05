@@ -18,17 +18,18 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!-- Talking about you -->
-### Short Intro
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="40%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" />
+
+### Short Intro
 
 I'm a biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
 
 ### I'm a published scientist!
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv.jpg" />
+<img width="40%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv_preprint.jpg" />
 
 I am currently a penultimate (3<sup>rd</sup>) year PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**. I'm in search for 3-month industrial PhD internship in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch! Also check [this link](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") or scroll below to see how to cite our work properly!
 
@@ -60,9 +61,8 @@ You can use this api: https://github.com/martinferianc/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/overleaf.svg"></code>
+  <code><img width="5%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/overleaf.svg"></code>
 </p>
 
 ## How to reach me & Getting in touch:
