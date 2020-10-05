@@ -1,8 +1,8 @@
 <!-- Your title -->
 
-## Hello everyone 👋! My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the LIDo Doctoral Programme at the University College London 🇬🇧
+# Welcome to Kristina's GitHub Page! 👋
 
-### Welcome to my GitHub profile 💻 full of #DeepLearning #SingleCell #DataScience repositories 👩‍💻 from my #PhD #research #project 👩‍🔬 & beyond!
+My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the University College London 🇬🇧at the [LIDo](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme") Doctoral Programme, the largest BBSRC funded Doctoral Training Partnership in the UK.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -10,20 +10,29 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KristinaUlicna)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristinaulicna/)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMartinFerianc)](https://twitter.com/KristinaUlicna)
-[![Gmail](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristina.smith.ulicna@gmail.com)](mailto:kristina.smith.ulicna@gmail.com)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/KristinaUlicna)
+[![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristina.smith.ulicna@gmail.com)](mailto:kristina.smith.ulicna@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:kristina.ulicna.18@ucl.ac.uk)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kristina_Ulicna2)
+[![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=3YKbZ6cAAAAJ)
+
 
 <!-- Talking about you -->
-### Short Intro:
+### Short Intro
 
-I am starting my penultimate year as a PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm split between the groups lead by Drs Alan Lowe & Guillaume Charras (CellX group website). I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various internship experience in both **academia & industry**. I'm in search for 3-month industrial PhD internship in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch!
+I'm a biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
+
+### I'm a published scientist!
+
+I am currently a penultimate (3<sup>rd</sup>) year PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**. I'm in search for 3-month industrial PhD internship in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch!
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="right" alt="Github" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/lab_pic.jpg" />
+<img width="40%" align="right" alt="Lab_pic" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/lab_pic.jpg" />
 
-- 👨🏽‍💻 I’m currently working on my PhD research project;
-- 🌱 I’m currently learning about Variational AutoEncoders (VAEs);
+- 📄 I’m currently advertising my recently published [bioRxiv pre-print](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Link to bioRxiv preprint");
+- 👨🏽‍💻 I’m working towards my [PhD research project](https://github.com/KristinaUlicna/DeepTree "DeepTree Project Repository");
+- 🌱 I’m learning about [Variational AutoEncoders (VAEs)]( "Variational AutoEncoders") & [Attention models](https://arxiv.org/pdf/1803.07179.pdf "Attention-based Temporal Weighted
+Convolutional Neural Network");
 - 👯 I’m looking to collaborate on bioscience research ideas 🤝
 - 💼 I'm always looking for interesting technical roles & internships;
 - 🤔 I’m thinking about cells & their heritable patterns across generations;
@@ -47,5 +56,19 @@ You can use this api: https://github.com/martinferianc/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
 </p>
+
+## How to reach me & Getting in touch:
+
+If you're interested in more details about:
++ **My professional background & research experience,** have a look at [my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄 or choose to click on the links below 👇
++ **My scientific achievements & publications,** visit my [*DeepTree repository*](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") to discover the beauty of our recent publication
++ **My PhD thesis & research interests,** click on my [*CellComp repository*](https://github.com/KristinaUlicna/CellComp "CellComp repository") where I explain the aims, methodology & key results of my doctoral thesis project
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KristinaUlicna)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristinaulicna/)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/KristinaUlicna)](https://twitter.com/KristinaUlicna)
+[![Gmail](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristina.smith.ulicna@gmail.com)](mailto:kristina.smith.ulicna@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:kristina.ulicna.18@ucl.ac.uk)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kristina_Ulicna2)
+[![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=3YKbZ6cAAAAJ)
