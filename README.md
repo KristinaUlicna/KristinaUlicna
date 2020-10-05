@@ -2,7 +2,7 @@
 
 # Welcome to Kristina's GitHub Page! 👋
 
-My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the University College London 🇬🇧at the [LIDo](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme") Doctoral Programme, the largest BBSRC funded Doctoral Training Partnership in the UK.
+My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the University College London 🇬🇧 at the [LIDo](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme") Doctoral Programme, the largest BBSRC funded Doctoral Training Partnership in the UK.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,14 +22,18 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="40%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" />
 
+
 ### Short Intro
 
 I'm a biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
 
+If you are a non-scientist interested in what I do, before you get overwhelmed by the scientific jargon & terminology, check out my recent [#DeepTree🌳 thread on Twitter](https://twitter.com/KristinaUlicna/status/1305479359084539904 "DeepTree thread on Twitter") for an easy-to-digest breakdown of my research for lay audience!
+
+
 ### I'm a published scientist!
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv_preprint.jpg" />
+<img width="30%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv_preprint.jpg" />
 
 I am currently a penultimate (3<sup>rd</sup>) year PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**. I'm in search for 3-month industrial PhD internship in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch! Also check [this link](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") or scroll below to see how to cite our work properly!
 
