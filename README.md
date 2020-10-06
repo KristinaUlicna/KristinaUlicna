@@ -2,7 +2,7 @@
 
 # Welcome to Kristina's GitHub Page! 👋
 
-My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the University College London 🇬🇧 at the [LIDo](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme") Doctoral Programme, the largest BBSRC funded Doctoral Training Partnership in the UK.
+My name is _Kristina Ulicna_ & I'm a Bioscience PhD student at the University College London 🇬🇧 at the [LIDo Doctoral Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"), the largest BBSRC-funded Doctoral Training Partnership in the UK.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="40%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" />
 
 
-### Short Intro
+### Short intro
 
 I'm a biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
 
@@ -35,14 +35,19 @@ If you are a non-scientist interested in what I do, before you get overwhelmed b
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv_preprint.jpg" />
 
-I am currently a penultimate (3<sup>rd</sup>) year PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**. I'm in search for 3-month industrial PhD internship in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch! Also check [this link](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") or scroll below to see how to cite our work properly!
+I am currently a penultimate (3<sup>rd</sup>) year PhD student interested in deep learning-based prediction of **cell cycle duration** in non-/cancer cell populations. I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell in love with big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**.
+
+I'm currently in search for **3-month industrial PhD internship** in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch! Don't forget to check [this link](https://github.com/KristinaUlicna/DeepTree/blob/master/DeepTree_Poster.pdf "DeepTree Project Poster") to view my project poster summarising the key results of my research, [this link](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") to read our recently published work, or scroll below to see how to cite our preprint properly!
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="40%" align="right" alt="Lab_pic" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/laboratory_photo.jpg" />
 
+
+### What keeps me busy these days?
+
 - 📄 I’m currently advertising my recently published [bioRxiv pre-print](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Link to bioRxiv preprint");
-- 👨🏽‍💻 I’m working towards my [PhD research project](https://github.com/KristinaUlicna/DeepTree "DeepTree Project Repository");
-- 🌱 I’m learning about [Variational AutoEncoders (VAEs)]( "Variational AutoEncoders") & [Attention models](https://arxiv.org/pdf/1803.07179.pdf "Attention-based Temporal Weighted
+- 👨🏽‍💻 I’m working towards my [PhD thesis research project](https://github.com/KristinaUlicna/DeepTree "DeepTree Project Repository");
+- 🌱 I’m learning about [Variational AutoEncoders (VAEs)](https://arxiv.org/pdf/1312.6114.pdf "Variational AutoEncoders") & [Attention models](https://arxiv.org/pdf/1803.07179.pdf "Attention-based Temporal Weighted
 Convolutional Neural Network");
 - 👯 I’m looking to collaborate on bioscience research ideas 🤝
 - 💼 I'm always looking for interesting technical roles & internships;
@@ -50,26 +55,26 @@ Convolutional Neural Network");
 - 💬 Ask me about anything -> I am happy to help;
 - 📫 How to reach me: check the banners on top of this page!
 
-### Languages and Tools:
+
+### Languages & Tools:
 
 <!-- Your github readme stats
-You can use this api: https://github.com/martinferianc/github-readme-stats
+You can use this api: https://github.com/kristinaulicna/github-readme-stats
 -->
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=kristinaulicna&show_icons=true">
-    <img width="40%" align="right" alt="Kristina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kristinaulicna&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Kristina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kristinaulicna&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="5%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/overleaf.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-## How to reach me & Getting in touch:
+### How to reach me & Getting in touch:
 
 If you're interested in more details about:
 + **My professional background & research experience,** have a look at [my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄 or choose to click on the links below 👇
