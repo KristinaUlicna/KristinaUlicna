@@ -50,9 +50,9 @@ I'm currently in search for **3-month industrial PhD internship** in the upcomin
 ## Me, a Science Communicator
 
 I love talking about my research to a variety of audiences! Whether you're an expert with 20 years worth of research experience or a lay listener fascinated by biomedical science, you're on the right place to be... Let me list a few resources you may be interested in having a look at to learn more about my research interests: use this **traffic light system** to navigate the links based on your level of expertise:
-- 🟩: lay audience with interest to learn more
-- 🟧: scientist / technologist from outside of this field
-- 🟥: expert 'singlecellologist' who enjoys the niche jargon 🤓)
+- 🟩 : lay audience with interest to learn more
+- 🟧 : scientist / technologist from outside of this field
+- 🟥 : expert 'singlecellologist' who enjoys the niche jargon 🤓)
 
 ---
 
@@ -67,7 +67,7 @@ I love talking about my research to a variety of audiences! Whether you're an ex
 5. 🔴🟥🔴 I describe the scientific details of *my PhD thesis research project* in my [CellComp repository](https://github.com/KristinaUlicna/CellComp "CellComp repository") where I explain the background, objectives, methodology & key results of my doctoral thesis project... 👩‍🔬
 
 6. 🔴🟥🔴 And last but not least, our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Automated deep lineage tree analysis using a Bayesian single cell tracking approach") should give you all the details you need to know about what we've done in the lab & beyond ➡️ we encourage you to jump to my [DeepTree repository](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") if you'd like to learn even more... 🌳
-
+---
 
 ### What keeps me busy? 👩‍💻 Live projects 🚧
 
@@ -95,9 +95,9 @@ You can use this api: https://github.com/kristinaulicna/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 
