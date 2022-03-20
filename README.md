@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <!--img width="50%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" /-->
 
-<img width="40%" align="right" alt="LIDo_Int" src="./LIDo_Interview.jpg" />
+<img width="50%" align="right" alt="LIDo_Int" src="./LIDo_Interview.jpg" />
 
 
 I'm a trained biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
@@ -49,7 +49,7 @@ If you are a non-scientist interested in what I do, before you get overwhelmed b
 I'm a trained **cancer biologist** with a 1st class Biomedical Science degree from King's College London. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**. To point out a few, I interned in the famous [Robert Weinberg's Lab](http://weinberglab.wi.mit.edu/ "Bob Weinberg Lab website") at **Massachusetts Institute of Technology (MIT)** in Cambridge, MA, USA where I worked on the identification of a novel tumour suppressor gene. Most recently, **Microsoft Research Cambridge** [Inner Eye group](https://www.microsoft.com/en-us/research/project/medical-image-analysis/ "Inner Eye Group Website") welcomed me to their team for 6-month PhD internship, which I spent contributing to the SOTA solutions of a (bio)medical image analysis-oriented Kaggle challenge in collaboration with the [Human Protein Atlas](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview "Human Protein Atlas - Single Cell Classification") database founders.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="40%" align="left" alt="Lab_pic" src="./laboratory_photo.jpg" />
+<img width="50%" align="left" alt="Lab_pic" src="./laboratory_photo.jpg" />
 
 #### Present Interests
 
@@ -65,11 +65,12 @@ I'm currently in search for a **full-time Research Scientist positions** at the 
 ## Me, a Science Communicator
 
 I love talking about my research to a variety of audiences! Whether you're an expert with 20 years worth of research experience or a lay listener fascinated by biomedical science, you're at the right place... Let me list a few resources you may be interested in having a look at to learn more about my research interests: use this **traffic light system** to navigate the links based on your level of expertise:
+
+<img width="50%" align="right" alt="LIDo_Int" src="./thesis_project_talk.jpg" />
+
 - 🟩 : lay audience with interest to learn more
 - 🟧 : scientist / technologist from outside of this field
 - 🟥 : expert 'singlecellologist' who enjoys the niche jargon 🤓)
-
-<img width="40%" align="right" alt="LIDo_Int" src="./thesis_project_talk.jpg" />
 
 
 1. 🟢🟩🟢 In this [Twitter thread 🧵](https://twitter.com/KristinaUlicna/status/1305479359084539904 "#DeepTree on Twitter"), I introduced the objective of my PhD research project & how we tackled the single-cell heterogeneity in cell populations by developing super-cool live-cell microscopy & computational tools... 🧪
@@ -134,7 +135,7 @@ If you're interested in more details about:
 ---
 ### Citations
 
-<img width="40%" align="right" alt="LIDo_Int" src="./repository_structure.jpg" />
+<img width="50%" align="right" alt="LIDo_Int" src="./repository_structure.jpg" />
 
 More details about my recent publications focussed on single-cell tracking approach from time-lapse microscopy data can be found in my [*DeepTree repository*](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") or in the following publications:
 
