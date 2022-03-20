@@ -4,7 +4,7 @@
 
 💡 Let's get straight to the point: [Check out my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄
 
-My name is **_Kristina Ulicna_** & I'm a penultimate (3<sup>rd</sup>) year PhD candidate at University College London 🎓 within the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"), the largest BBSRC-funded Doctoral Training Partnership in the UK 🇬🇧.
+My name is **_Kristina Ulicna_** & I'm a final (4<sup>th</sup>) year **_PhD candidate_** at University College London 🎓 within the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"), the largest BBSRC-funded Doctoral Training Partnership in the UK 🇬🇧. I'm a **_computational biologist_** focussing on the interplay between single cell cycling duration prediction & **_AI-driven bioimage analysis_** tool development.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -24,37 +24,53 @@ You can use the website to generate badges: https://shields.io/
 ## Me, a Computational Biologist
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" />
+<!--img width="50%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" /-->
+
+<img width="40%" align="right" alt="LIDo_Int" src="./LIDo_Interview.jpg" />
 
 
 I'm a trained biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
 
-If you are a non-scientist interested in what I do, before you get overwhelmed by the scientific jargon & terminology, check out my recent [#DeepTree🌳 thread on Twitter](https://twitter.com/KristinaUlicna/status/1305479359084539904 "DeepTree thread on Twitter") for an easy-to-digest breakdown of my research for lay audience!
+If you are a non-scientist interested in what I do, before you get overwhelmed by the scientific jargon & terminology, check out my recent [#DeepTree🌳 Tweetorial Thread 🧵](https://twitter.com/KristinaUlicna/status/1305479359084539904 "DeepTree Thread on Twitter") for an easy-to-digest breakdown of my research for lay audience! In case you're not scared of the technical terms, don't hesitate to check out my latest [Tweet with a Link 🔗](https://twitter.com/KristinaUlicna/status/1440731210175582212 "Frontiers Publication Link") to our recently published article in _Frontiers of Computer Science_ journal.
 
+*Wanna jump straight to the papers?* Click on the following links to access our **"Automated deep lineage tree analysis using a Bayesian single cell tracking approach"** work on [Frontiers](https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full "Frontiers publication") journal website, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") preprint repository or scroll below to the [Citation section](#citations) find out how to properly cite our work!
 
-## Me, a Published Scientist
+---
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv_preprint.jpg" />
-
-*Wanna jump straight to the preprint?* [Click here](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") to access our **"Automated deep lineage tree analysis using a Bayesian single cell tracking approach"** work on bioRxiv or scroll below to find out how to cite us!
-
-I am currently a penultimate (3<sup>rd</sup>) year PhD student interested in deep learning-based prediction of **single-cell cycling duration** in non-/cancer cell populations. I'm a trained **cancer biologist** (with a 1st class Biomedical Science degree from King's College London) who fell for the big #DataScience, #DeepLearning & #Computational #SingleCell #Tracking to understand **individual cells' decisions**. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**.
-
-I'm currently in search for **3-month industrial PhD internship** in the upcoming months, so if my work sparked some interest in you, do not hesitate to get in touch! Don't forget to check [this link](https://github.com/KristinaUlicna/DeepTree/blob/master/DeepTree_Poster.pdf "DeepTree Project Poster") to view my project poster summarising the key results of my research (in the making!), [this link](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") to read our recently published work, or scroll below to see how to cite our preprint properly!
+## Me, a Research Scientist
 
 <!-- Any image aligned to the right. Beware the width -->
-<!-- <img width="40%" align="right" alt="Lab_pic" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/laboratory_photo.jpg" /> -->
+<!--img width="30%" align="left" alt="bioRxiv" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/bioRxiv_preprint.jpg" /-->
 
+<!--img width="30%" align="left" alt="bioRxiv" src="./bioRxiv_preprint.jpg" /-->
+
+#### Past Achievements
+
+I'm a trained **cancer biologist** with a 1st class Biomedical Science degree from King's College London. I'm a practical & detail-oriented researcher with a unique combination of wet-lab & dry-lab skills which I gained through various [internship experience](CV_Kristina_Ulicna.pdf "Kristina's CV") in both **academia & industry**. To point out a few, I interned in the famous [Robert Weinberg's Lab](http://weinberglab.wi.mit.edu/ "Bob Weinberg Lab website") at **Massachusetts Institute of Technology (MIT)** in Cambridge, MA, USA where I worked on the identification of a novel tumour suppressor gene. Most recently, **Microsoft Research Cambridge** [Inner Eye group](https://www.microsoft.com/en-us/research/project/medical-image-analysis/ "Inner Eye Group Website") welcomed me to their team for 6-month PhD internship, which I spent contributing to the SOTA solutions of a (bio)medical image analysis-oriented Kaggle challenge in collaboration with the [Human Protein Atlas](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview "Human Protein Atlas - Single Cell Classification") database founders.
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="40%" align="left" alt="Lab_pic" src="./laboratory_photo.jpg" />
+
+#### Present Interests
+
+As a final year PhD candidate, I'm interested in deep learning-based prediction of **single-cell cycling duration** in non-/cancer cell populations. I use time-lapse microscopy movies to enhance my passion for the _big data science, deep learning & computational cell tracking_ to understand morphological features influencing **single cell fate decisions**. I'm actively developing AI-driven tools to answer the hypothesis of my PhD thesis project - whether cell cycle duration can be predicted from its early life. To do so, I combine feature handcrafting tools with **variational autoencoders (VAE)** approaches to encode the single-cell lifetime over time and to assemble single-cell data into sequences for single-cell trajectory reconstruction. I'm interested in clustering them to find (dis-)similarities between the individual cell clusters. Using **time-sequence analysis** methods, I shortlist the regions of the sequence data to identify patterns leading to pre-determination of cell cycle lifetimes.
+
+
+#### Future Outlooks
+
+I'm currently in search for a **full-time Research Scientist positions** at the interface of Machine Learning & Biological / Biomedical Research after my upcoming graduation (expected end of 2022). If my work sparked some interest in you, do not hesitate to get in touch! Don't forget to check [my up-to-date CV](CV_Kristina_Ulicna.pdf "Kristina's CV") for a better overview of my skillset, work / teaching experience & professional interests, [my PhD thesis poster](https://github.com/KristinaUlicna/DeepTree/blob/master/DeepTree_Poster.pdf "DeepTree Project Poster") for summary of the key results of the 1st chapter of my thesis ( = development of software tools & computational pipelines applied to biological research), or write me an [email](mailto:kristina.smith.ulicna@gmail.com) / message me directly using the social media links panel above. Always happy to hear from you!
+
+---
 
 ## Me, a Science Communicator
 
-I love talking about my research to a variety of audiences! Whether you're an expert with 20 years worth of research experience or a lay listener fascinated by biomedical science, you're on the right place to be... Let me list a few resources you may be interested in having a look at to learn more about my research interests: use this **traffic light system** to navigate the links based on your level of expertise:
+I love talking about my research to a variety of audiences! Whether you're an expert with 20 years worth of research experience or a lay listener fascinated by biomedical science, you're at the right place... Let me list a few resources you may be interested in having a look at to learn more about my research interests: use this **traffic light system** to navigate the links based on your level of expertise:
 - 🟩 : lay audience with interest to learn more
 - 🟧 : scientist / technologist from outside of this field
 - 🟥 : expert 'singlecellologist' who enjoys the niche jargon 🤓)
 
----
+<img width="40%" align="right" alt="LIDo_Int" src="./thesis_project_talk.jpg" />
+
 
 1. 🟢🟩🟢 In this [Twitter thread 🧵](https://twitter.com/KristinaUlicna/status/1305479359084539904 "#DeepTree on Twitter"), I introduced the objective of my PhD research project & how we tackled the single-cell heterogeneity in cell populations by developing super-cool live-cell microscopy & computational tools... 🧪
 
@@ -66,19 +82,18 @@ I love talking about my research to a variety of audiences! Whether you're an ex
 
 5. 🔴🟥🔴 I describe the scientific details of *my PhD thesis research project* in my [CellComp repository](https://github.com/KristinaUlicna/CellComp "CellComp repository") where I explain the background, objectives, methodology & key results of my doctoral thesis project... 👩‍🔬
 
-6. 🔴🟥🔴 And last but not least, our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Automated deep lineage tree analysis using a Bayesian single cell tracking approach") should give you all the details you need to know about what we've done in the lab & beyond ➡️ we encourage you to jump to my [DeepTree repository](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") if you'd like to learn even more... 🌳
+6. 🔴🟥🔴 And last but not least, our recent publications to be found at [Frontiers](https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full "Frontiers publication") journal website or at the [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") preprint repository should give you all the details you need to know about what we've done in the lab & beyond. ➡️ We also encourage you to jump to my [DeepTree repository](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") if you'd like to learn even more... 🌳
 ---
 
 ### What keeps me busy? 👩‍💻 Live projects 🚧
 
-- 📄 I’m currently advertising my recently published [bioRxiv pre-print](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "Link to bioRxiv preprint");
-- 👨🏽‍💻 I’m working towards my [PhD thesis research project](https://github.com/KristinaUlicna/DeepTree "DeepTree Project Repository");
-- 🌱 I’m learning about [Variational AutoEncoders (VAEs)](https://arxiv.org/pdf/1312.6114.pdf "Variational AutoEncoders") & [Attention models](https://arxiv.org/pdf/1803.07179.pdf "Attention-based Temporal Weighted
-Convolutional Neural Network");
-- 👯 I’m looking to collaborate on bioscience research ideas 🤝
-- 💼 I'm always looking for interesting technical roles & internships;
-- 🤔 I’m thinking about cells & their heritable patterns across generations;
-- 💬 Ask me about anything -> I am happy to help;
+- 👨🏽‍💻 I’m working towards my [PhD thesis research project](https://github.com/KristinaUlicna/DeepTree "DeepTree Project Repository") for cell trajectory clustering;
+- 🌱 I’m training some [Variational AutoEncoders (VAEs)](https://arxiv.org/pdf/1312.6114.pdf "Variational AutoEncoders") for single-cell image encoding;
+- ⛓️ I'm analysing time-sequence data to find (dis-)similarities across cell cycle lives;
+- 👯 I’m looking to collaborate on bioscience research ideas & projects involving AI;
+- 💼 I'm in search of interesting technical roles & job openings to enhance my skills;
+- 🤔 I’m thinking about single cells & their heritable patterns across generations;
+- 💬 Ask me about anything -> [I am happy to answer your questions](mailto:kristina.smith.ulicna@gmail.com) & help you out;
 - 📫 How to reach me: check the banners on top / bottom of this page!
 
 
@@ -117,25 +132,34 @@ If you're interested in more details about:
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=3YKbZ6cAAAAJ)
 
 ---
-### Citation
+### Citations
 
-More details about my recent publication focussed on single-cell tracking approach from time-lapse microscopy data can be found in my [*DeepTree repository*](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") or in the following publication:
+<img width="40%" align="right" alt="LIDo_Int" src="./repository_structure.jpg" />
+
+More details about my recent publications focussed on single-cell tracking approach from time-lapse microscopy data can be found in my [*DeepTree repository*](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") or in the following publications:
+
+**Convolutional neural networks for classifying chromatin morphology in live cell imaging**  
+Ulicna K, Ho LTL, Soelistyo CJ, Day NJ & Lowe AR  
+*Methods in Molecular Biology, Springer Nature Protocols* (2022)  
+<https://github.com/lowe-lab-ucl/cnn-annotator>  
+_(accepted; in press)_
 
 **Automated deep lineage tree analysis using a Bayesian single cell tracking approach**  
-Ulicna K, Vallardi G, Charras G and Lowe AR.  
-*bioRxiv* (2020)  
-<https://www.biorxiv.org/content/early/2020/09/10/2020.09.10.276980>
+Ulicna K, Vallardi G, Charras G and Lowe AR  
+*Frontiers in Computer Science, Computer Vision: Methods & Tools for Bioimage Analysis* (2021)  
+<https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full>  
+<https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full>
 
 ```
-@article {Ulicna2020.09.10.276980,
-  author = {Ulicna, Kristina and Vallardi, Giulia and Charras, Guillaume and Lowe, Alan R.},
-  title = {Automated deep lineage tree analysis using a Bayesian single cell tracking approach},
-  elocation-id = {2020.09.10.276980},
-  year = {2020},
-  doi = {10.1101/2020.09.10.276980},
-  publisher = {Cold Spring Harbor Laboratory},
-  URL = {https://www.biorxiv.org/content/early/2020/09/10/2020.09.10.276980},
-  eprint = {https://www.biorxiv.org/content/early/2020/09/10/2020.09.10.276980.full.pdf},
-  journal = {bioRxiv}
+@ARTICLE{10.3389/fcomp.2021.734559,
+  AUTHOR = {Ulicna, Kristina and Vallardi, Giulia and Charras, Guillaume and Lowe, Alan R.},   
+  TITLE = {Automated Deep Lineage Tree Analysis Using a Bayesian Single Cell Tracking Approach},      
+  JOURNAL = {Frontiers in Computer Science},      
+	VOLUME = {3},      
+	YEAR = {2021},      
+	URL = {https://www.frontiersin.org/article/10.3389/fcomp.2021.734559},       
+	DOI = {10.3389/fcomp.2021.734559},      
+	ISSN = {2624-9898},   
+  ABSTRACT = {Single-cell methods are beginning to reveal the intrinsic heterogeneity in cell populations, arising from the interplay of deterministic and stochastic processes. However, it remains challenging to quantify single-cell behaviour from time-lapse microscopy data, owing to the difficulty of extracting reliable cell trajectories and lineage information over long time-scales and across several generations. Therefore, we developed a hybrid deep learning and Bayesian cell tracking approach to reconstruct lineage trees from live-cell microscopy data. We implemented a residual U-Net model coupled with a classification CNN to allow accurate instance segmentation of the cell nuclei. To track the cells over time and through cell divisions, we developed a Bayesian cell tracking methodology that uses input features from the images to enable the retrieval of multi-generational lineage information from a corpus of thousands of hours of live-cell imaging data. Using our approach, we extracted 20,000 + fully annotated single-cell trajectories from over 3,500 h of video footage, organised into multi-generational lineage trees spanning up to eight generations and fourth cousin distances. Benchmarking tests, including lineage tree reconstruction assessments, demonstrate that our approach yields high-fidelity results with our data, with minimal requirement for manual curation. To demonstrate the robustness of our minimally supervised cell tracking methodology, we retrieve cell cycle durations and their extended inter- and intra-generational family relationships in 5,000 + fully annotated cell lineages. We observe vanishing cycle duration correlations across ancestral relatives, yet reveal correlated cyclings between cells sharing the same generation in extended lineages. These findings expand the depth and breadth of investigated cell lineage relationships in approximately two orders of magnitude more data than in previous studies of cell cycle heritability, which were reliant on semi-manual lineage data analysis.}
 }
 ```
