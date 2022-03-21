@@ -116,6 +116,16 @@ You can use this api: https://github.com/kristinaulicna/github-readme-stats
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+### Open-Source Projects 🚧
+
+I've been contributing to a few open-source projects lately, mastering my **software engineering skills** & how to improve my programming practices. Check out my contributions directly by viewing some of my pull requests:
+
+* _The_ `cellx` _library_ -> data pre-processing for AI model training; access [my PR here](https://github.com/quantumjot/cellx/pull/52 "Add functions to traverse TFRecords dataset")
+* _The_ `cellx-predict` _library_ -> explainable AI model of cell behaviour; access [my PR here](https://github.com/lowe-lab-ucl/cellx-predict/pull/33 "Ease the training grid search")
+* _The_ `cnn-annotator` _library_ -> annotation of microscopy images for CNN classification; access [my PR here](https://github.com/lowe-lab-ucl/cnn-annotator/pull/35 "Change to ntbk A and B")
+* _The_ `BayesianTracker` _library_ -> Bayesian multi-object tracking for cell lineage reconstruction; access [my PR here](https://github.com/quantumjot/BayesianTracker/pull/61 "Overwrite existing properties with Handler")
+* _...and many others..._ just visit [my GitHub repositories link](https://github.com/KristinaUlicna?tab=repositories "Kristina's GitHub repositories") 🔗 for more details
+
 
 ### Getting in Touch 💬
 
