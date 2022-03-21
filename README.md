@@ -121,7 +121,7 @@ You can use this api: https://github.com/kristinaulicna/github-readme-stats
 I've been contributing to a handful of open-source projects lately, mastering my **software engineering skills** & how to improve my programming practices. Check out my contributions directly by viewing some of my pull requests:
 
 
-| Library / Package | Description | Repository Traffic | Link to View Pull Request |
+| Repository | Library / Package Description 📝 | Repository Traffic 🚗 | View Pull Request 🔗 |
 | --- | --- | --- | --- |
 | `cellx` | Data pre-processing for AI model training | [![stars - cellx](https://img.shields.io/github/stars/quantumjot/cellx?style=social)](https://github.com/quantumjot/cellx) [![forks - cellx](https://img.shields.io/github/forks/quantumjot/cellx?style=social)](https://github.com/quantumjot/cellx) | [![KristinaUlicna - PR](https://img.shields.io/static/v1?label=KristinaUlicna&message=GitHub-PR&color=black&logo=github)](https://github.com/quantumjot/cellx/pull/52) |
 | `cellx-predict` | Explainable AI model of single-cell behaviour | [![stars - cellx-predict](https://img.shields.io/github/stars/quantumjot/cellx-predict?style=social)](https://github.com/quantumjot/cellx-predict) [![forks - cellx-predict](https://img.shields.io/github/forks/quantumjot/cellx-predict?style=social)](https://github.com/quantumjot/cellx-predict) | [![KristinaUlicna - PR](https://img.shields.io/static/v1?label=KristinaUlicna&message=GitHub-PR&color=black&logo=github)](https://github.com/lowe-lab-ucl/cellx-predict/pull/33) |
@@ -176,6 +176,28 @@ Ulicna K, Vallardi G, Charras G and Lowe AR
 	URL = {https://www.frontiersin.org/article/10.3389/fcomp.2021.734559},       
 	DOI = {10.3389/fcomp.2021.734559},      
 	ISSN = {2624-9898},   
-  ABSTRACT = {Single-cell methods are beginning to reveal the intrinsic heterogeneity in cell populations, arising from the interplay of deterministic and stochastic processes. However, it remains challenging to quantify single-cell behaviour from time-lapse microscopy data, owing to the difficulty of extracting reliable cell trajectories and lineage information over long time-scales and across several generations. Therefore, we developed a hybrid deep learning and Bayesian cell tracking approach to reconstruct lineage trees from live-cell microscopy data. We implemented a residual U-Net model coupled with a classification CNN to allow accurate instance segmentation of the cell nuclei. To track the cells over time and through cell divisions, we developed a Bayesian cell tracking methodology that uses input features from the images to enable the retrieval of multi-generational lineage information from a corpus of thousands of hours of live-cell imaging data. Using our approach, we extracted 20,000 + fully annotated single-cell trajectories from over 3,500 h of video footage, organised into multi-generational lineage trees spanning up to eight generations and fourth cousin distances. Benchmarking tests, including lineage tree reconstruction assessments, demonstrate that our approach yields high-fidelity results with our data, with minimal requirement for manual curation. To demonstrate the robustness of our minimally supervised cell tracking methodology, we retrieve cell cycle durations and their extended inter- and intra-generational family relationships in 5,000 + fully annotated cell lineages. We observe vanishing cycle duration correlations across ancestral relatives, yet reveal correlated cyclings between cells sharing the same generation in extended lineages. These findings expand the depth and breadth of investigated cell lineage relationships in approximately two orders of magnitude more data than in previous studies of cell cycle heritability, which were reliant on semi-manual lineage data analysis.}
+  ABSTRACT = {Single-cell methods are beginning to reveal the intrinsic heterogeneity in cell
+    populations, arising from the interplay of deterministic and stochastic processes. However,
+    it remains challenging to quantify single-cell behaviour from time-lapse microscopy data,
+    owing to the difficulty of extracting reliable cell trajectories and lineage information
+    over long time-scales and across several generations. Therefore, we developed a hybrid deep
+    learning and Bayesian cell tracking approach to reconstruct lineage trees from live-cell
+    microscopy data. We implemented a residual U-Net model coupled with a classification CNN to
+    allow accurate instance segmentation of the cell nuclei. To track the cells over time and
+    through cell divisions, we developed a Bayesian cell tracking methodology that uses input
+    features from the images to enable the retrieval of multi-generational lineage information
+    from a corpus of thousands of hours of live-cell imaging data. Using our approach, we
+    extracted 20,000 + fully annotated single-cell trajectories from over 3,500 h of video
+    footage, organised into multi-generational lineage trees spanning up to eight generations
+    and fourth cousin distances. Benchmarking tests, including lineage tree reconstruction
+    assessments, demonstrate that our approach yields high-fidelity results with our data,
+    with minimal requirement for manual curation. To demonstrate the robustness of our minimally
+    supervised cell tracking methodology, we retrieve cell cycle durations and their extended
+    inter- and intra-generational family relationships in 5,000 + fully annotated cell lineages.
+    We observe vanishing cycle duration correlations across ancestral relatives, yet reveal
+    correlated cyclings between cells sharing the same generation in extended lineages. These
+    findings expand the depth and breadth of investigated cell lineage relationships in
+    approximately two orders of magnitude more data than in previous studies of cell cycle
+    heritability, which were reliant on semi-manual lineage data analysis.}
 }
 ```
