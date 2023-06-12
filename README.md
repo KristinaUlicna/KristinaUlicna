@@ -4,7 +4,7 @@
 
 💡 Let's get straight to the point: [Check out my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄
 
-My name is **_Kristina Ulicna_** & I'm a final (4<sup>th</sup>) year **_PhD candidate_** at University College London 🎓 within the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"), the largest BBSRC-funded Doctoral Training Partnership in the UK 🇬🇧. I'm a **_computational biologist_** focussing on the interplay between single cell cycling duration prediction & **_AI-driven bioimage analysis_** tool development.
+My name is **_Kristina Ulicna, PhD_** & I'm a **_research associate_** at The [Alan Turing Institute](https://www.turing.ac.uk/people/research-associates/kristina-ulicna "Turing Research Associate Profile") 👩‍💻. I obtained my PhD degree from University College London (UCL) 🎓 as part of the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"), the largest BBSRC-funded Doctoral Training Partnership in the UK 🇬🇧. I'm a **_computational biologist_** focusing on the interplay between single-cell trajectories reconstruction 👣, representation 🔢 & interpretation 📊 via **_AI-driven bioimage analysis_** tool development 💻.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -26,14 +26,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <!--img width="50%" align="right" alt="LIDo_Int" src="https://github.com/KristinaUlicna/KristinaUlicna/blob/master/LIDo_Interview.jpg" /-->
 
-<img width="50%" align="right" alt="LIDo_Int" src="./LIDo_Interview.jpg" />
-
+<img width="50%" align="right" alt="LIDo_Int" src="./assets/thesis_submission.jpg" margin-left="70px" margin-right="70px"/>
 
 I'm a trained biomedical scientist turned computational biologist. After obtaining my BSc degree in Biomedical Science @ King's College London, I started my PhD training with the London Interdisciplinary Doctoral (LIDo) Programme @ University College London (UCL). I'm split between the [CellX group](http://lowe.cs.ucl.ac.uk/cellx.html "CellX group") teams lead by Drs Alan Lowe (The Alan Turing Institute 'AI for Science' Fellow, UCL) & Guillaume Charras (London Centre for Nanotechnology, UCL).
 
-If you are a non-scientist interested in what I do, before you get overwhelmed by the scientific jargon & terminology, check out my recent [#DeepTree🌳 Tweetorial Thread 🧵](https://twitter.com/KristinaUlicna/status/1305479359084539904 "DeepTree Thread on Twitter") for an easy-to-digest breakdown of my research for lay audience! In case you're not scared of the technical terms, don't hesitate to check out my latest [Tweet with a Link 🔗](https://twitter.com/KristinaUlicna/status/1440731210175582212 "Frontiers Publication Link") to our recently published article in _Frontiers of Computer Science_ journal.
+If you are a non-scientist interested in what I do, before you get overwhelmed by the scientific jargon & terminology, check out my recent [#DeepTree🌳 Tweetorial Thread 🧵](https://twitter.com/KristinaUlicna/status/1305479359084539904 "DeepTree Thread on Twitter") for an easy-to-digest breakdown of my research for lay audience! In case you're not scared of the technical terms, don't hesitate to check out my [Tweet with a Link 🔗](https://twitter.com/KristinaUlicna/status/1440731210175582212 "Frontiers Publication Link") to our recently published article in _Frontiers of Computer Science_ journal. Likewise, check out my latest [Tweet with a Link 🔗](https://twitter.com/KristinaUlicna/status/1666384641211727874 "Cell Cycle Preprint Link") to our recent _bioRxiv_ preprint.
 
-*Wanna jump straight to the papers?* Click on the following links to access our **"Automated deep lineage tree analysis using a Bayesian single cell tracking approach"** work on [Frontiers](https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full "Frontiers publication") journal website, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full "bioRxiv preprint") preprint repository or scroll below to the [Citation section](#citations) find out how to properly cite our work!
+*Wanna jump straight to the papers?* Scroll below to the [Citation section](#citations) find out how to properly cite our work!
 
 ---
 
@@ -51,14 +50,14 @@ I'm a trained **cancer biologist** with a 1st class Biomedical Science degree fr
 <!-- Any image aligned to the right. Beware the width -->
 #### Present Interests
 
-<img width="50%" align="left" alt="Lab_pic" src="./laboratory_photo.jpg" />
+<img width="50%" align="left" alt="Lab_pic" src="./assets/thesis_project_talk.jpg" />
 
-As a final year PhD candidate, I'm interested in deep learning-based prediction of **single-cell cycling duration** in non-/cancer cell populations. I use time-lapse microscopy movies to enhance my passion for the _big data science, deep learning & computational cell tracking_ to understand morphological features influencing **single cell fate decisions**. I'm actively developing AI-driven tools to answer my PhD thesis project goal - predict cell cycle duration from cell's early life. To do so, I combine feature handcrafting tools with **variational autoencoders (VAE)** approaches to encode the single-cell lifetime to assemble single-cell data into sequences for single-cell trajectory reconstruction. I'm clustering these data to find (dis-)similarities between the individual cells. Using **time-sequence analysis** methods, I shortlist the regions of the sequence data to identify patterns leading to pre-determination of cell cycle lifetimes.
+Now as a PhD graduate, I'm interested in deep learning-based prediction of **single-cell cycling duration** in non-/cancer cell populations. I use time-lapse microscopy movies to enhance my passion for the _big data science, deep learning & computational cell tracking_ to understand morphological features influencing **single-cell fate decisions**. I'm actively developing AI-driven tools to answer my PhD thesis project goal - predict cell cycle duration from cell's early life. To do so, I combine feature handcrafting tools with **variational autoencoders (VAE)** approaches to encode the single-cell lifetime to assemble single-cell data into sequences for single-cell trajectory reconstruction. I'm clustering these data to find (dis-)similarities between the individual cells. Using **time-sequence analysis** methods, I shortlist the regions of the sequence data to identify patterns leading to pre-determination of cell cycle lifetimes.
 
 
 #### Future Outlooks
 
-I'm currently in search for a **full-time Research Scientist positions** at the interface of Machine Learning & Biological / Biomedical Research after my upcoming graduation (expected end of 2022). If my work sparked some interest in you, do not hesitate to get in touch! Don't forget to check [my up-to-date CV](CV_Kristina_Ulicna.pdf "Kristina's CV") for a better overview of my skillset, work / teaching experience & professional interests, [my PhD thesis poster](https://github.com/KristinaUlicna/DeepTree/blob/master/DeepTree_Poster.pdf "DeepTree Project Poster") for summary of the key results of the 1st chapter of my thesis ( = development of software tools & computational pipelines applied to biological research), or write me an [email](mailto:kristina.smith.ulicna@gmail.com) / message me directly using the social media links panel above. Always happy to hear from you!
+I'm always in search for a **full-time Research Scientist / Computational Biologist position** at the interface of Machine Learning & Biological / Biomedical Research. If my work sparked some interest in you, do not hesitate to get in touch! Don't forget to check [my up-to-date CV](CV_Kristina_Ulicna.pdf "Kristina's CV") for a better overview of my skillset, work / teaching experience & professional interests, [my PhD thesis poster](https://github.com/KristinaUlicna/DeepTree/blob/master/DeepTree_Poster.pdf "DeepTree Project Poster") for summary of the key results of the 1st chapter of my thesis ( = development of software tools & computational pipelines applied to biological research), or write me an [email](mailto:kristina.smith.ulicna@gmail.com) / message me directly using the social media links panel above. Always happy to hear from you!
 
 ---
 
@@ -66,7 +65,7 @@ I'm currently in search for a **full-time Research Scientist positions** at the 
 
 I love talking about my research to a variety of audiences! Whether you're an expert with 20 years worth of research experience or a lay listener fascinated by biomedical science, you're at the right place... Let me list a few resources you may be interested in having a look at to learn more about my research interests: use this **traffic light system** to navigate the links based on your level of expertise:
 
-<img width="50%" align="right" alt="LIDo_Int" src="./thesis_project_talk.jpg" />
+<img width="50%" align="right" alt="LIDo_Int" src="./assets/reflect_festival.jpg" />
 
 - 🟩 : lay audience with interest to learn more
 - 🟧 : scientist / technologist from outside of this field
@@ -150,54 +149,26 @@ If you're interested in more details about:
 ---
 ### Citations
 
-<img width="50%" align="right" alt="LIDo_Int" src="./repository_structure.jpg" />
+<img width="50%" align="right" alt="LIDo_Int" src="./assets/preprint_cell_cycle.jpg" />
 
 More details about my recent publications focussed on single-cell tracking approach from time-lapse microscopy data can be found in my [*DeepTree repository*](https://github.com/KristinaUlicna/DeepTree "DeepTree repository") or in the following publications:
 
+
+**Learning dynamic image representations for self-supervised cell cycle annotation**  
+Ulicna K, Kelkar M, Soelistyo CJ, Charras GT & Lowe AR  
+*bioRxiv 2023.05.30.542796* (2023)
+<https://www.biorxiv.org/content/10.1101/2023.05.30.542796v1.full>
+_(under review)_
+
 **Convolutional neural networks for classifying chromatin morphology in live cell imaging**  
 Ulicna K, Ho LTL, Soelistyo CJ, Day NJ & Lowe AR  
-*Methods in Molecular Biology, Springer Nature Protocols* (2022)  
+*Methods in Molecular Biology, Springer Nature Protocols* (2022)
+<https://link.springer.com/protocol/10.1007/978-1-0716-2221-6_3>
 <https://github.com/lowe-lab-ucl/cnn-annotator>  
 _(accepted; in press)_
 
 **Automated deep lineage tree analysis using a Bayesian single cell tracking approach**  
-Ulicna K, Vallardi G, Charras G and Lowe AR  
+Ulicna K, Vallardi G, Charras G & Lowe AR  
 *Frontiers in Computer Science, Computer Vision: Methods & Tools for Bioimage Analysis* (2021)  
 <https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full>  
 <https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full>
-
-```
-@ARTICLE{10.3389/fcomp.2021.734559,
-  AUTHOR = {Ulicna, Kristina and Vallardi, Giulia and Charras, Guillaume and Lowe, Alan R.},   
-  TITLE = {Automated Deep Lineage Tree Analysis Using a Bayesian Single Cell Tracking Approach},      
-  JOURNAL = {Frontiers in Computer Science},      
-	VOLUME = {3},      
-	YEAR = {2021},      
-	URL = {https://www.frontiersin.org/article/10.3389/fcomp.2021.734559},       
-	DOI = {10.3389/fcomp.2021.734559},      
-	ISSN = {2624-9898},   
-  ABSTRACT = {Single-cell methods are beginning to reveal the intrinsic heterogeneity in cell
-    populations, arising from the interplay of deterministic and stochastic processes. However,
-    it remains challenging to quantify single-cell behaviour from time-lapse microscopy data,
-    owing to the difficulty of extracting reliable cell trajectories and lineage information
-    over long time-scales and across several generations. Therefore, we developed a hybrid deep
-    learning and Bayesian cell tracking approach to reconstruct lineage trees from live-cell
-    microscopy data. We implemented a residual U-Net model coupled with a classification CNN to
-    allow accurate instance segmentation of the cell nuclei. To track the cells over time and
-    through cell divisions, we developed a Bayesian cell tracking methodology that uses input
-    features from the images to enable the retrieval of multi-generational lineage information
-    from a corpus of thousands of hours of live-cell imaging data. Using our approach, we
-    extracted 20,000 + fully annotated single-cell trajectories from over 3,500 h of video
-    footage, organised into multi-generational lineage trees spanning up to eight generations
-    and fourth cousin distances. Benchmarking tests, including lineage tree reconstruction
-    assessments, demonstrate that our approach yields high-fidelity results with our data,
-    with minimal requirement for manual curation. To demonstrate the robustness of our minimally
-    supervised cell tracking methodology, we retrieve cell cycle durations and their extended
-    inter- and intra-generational family relationships in 5,000 + fully annotated cell lineages.
-    We observe vanishing cycle duration correlations across ancestral relatives, yet reveal
-    correlated cyclings between cells sharing the same generation in extended lineages. These
-    findings expand the depth and breadth of investigated cell lineage relationships in
-    approximately two orders of magnitude more data than in previous studies of cell cycle
-    heritability, which were reliant on semi-manual lineage data analysis.}
-}
-```
