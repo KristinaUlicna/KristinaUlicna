@@ -2,7 +2,15 @@
 
 # Welcome to Kristina's GitHub Page! 👋
 
-💡 Let's get straight to the point: [Check out my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄
+💡 Let's get straight to the point: [Check out my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄 & scientific publications below ⏬:
+
+| Paper Topic | Year | Publication | Pre-print | Full Title |
+|---|---|---|---|---|
+| Learning latent cell cycle representation | 2023 | [ICML Computational Biology Workshop](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper23.pdf) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.30.542796v1.full) | "Learning dynamic image representations for self-supervised cell cycle annotation" |
+| Cell tracking perspective | 2023 | [Frontiers in Bioinformatics](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1228989/full) | --- | "Machine learning enhanced cell tracking" |
+| CNN annotator protocol | 2022 | [Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-2221-6_3) | --- | "Convolutional Neural Networks for Classifying Chromatin Morphology in Live-Cell Imaging" |
+| Single-cell tracking *(bTrack)* | 2021 | [Frontiers in Computer Science](https://www.frontiersin.org/articles/10.3389/fcomp.2021.734559/full)  | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.10.276980v1.full) | "Automated deep lineage tree analysis using a Bayesian single cell tracking approach"
+
 
 My name is **_Kristina Ulicna, PhD_** & I'm a **_research associate_** at The [Alan Turing Institute](https://www.turing.ac.uk/people/research-associates/kristina-ulicna "Turing Research Associate Profile") 👩‍💻. I obtained my PhD degree from University College London (UCL) 🎓 as part of the [London Interdisciplinary Doctoral (LIDo) Bioscience Programme](https://www.lido-dtp.ac.uk/about-us "LIDo Doctoral Programme"), the largest BBSRC-funded Doctoral Training Partnership in the UK 🇬🇧. I'm a **_computational biologist_** focusing on the interplay between single-cell trajectories reconstruction 👣, representation 🔢 & interpretation 📊 via **_AI-driven bioimage analysis_** tool development 💻.
 
