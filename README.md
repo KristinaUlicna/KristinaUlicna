@@ -4,7 +4,7 @@
 
 💡 Let's get straight to the point: [Check out my CV](CV_Kristina_Ulicna.pdf "Kristina's CV") 📄 & scientific publications below ⏬:
 
-| Paper Topic | Year | Publication | Pre-print | Full Title |
+| Paper Topic | Year | Link to Publication | Pre-print | Full Title |
 |---|---|---|---|---|
 | Learning latent cell cycle representation | 2023 | [ICML Computational Biology Workshop](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper23.pdf) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.30.542796v1.full) | "Learning dynamic image representations for self-supervised cell cycle annotation" |
 | Cell tracking perspective | 2023 | [Frontiers in Bioinformatics](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1228989/full) | --- | "Machine learning enhanced cell tracking" |
